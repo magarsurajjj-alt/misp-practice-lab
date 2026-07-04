@@ -77,7 +77,9 @@ open misp-practice-lab.html   # or just double-click it
 
 ## Screenshots
 
-*(Add 2–3 screenshots here: Dashboard, Event detail page, Practice Mode drawer — makes the repo much stronger for a portfolio.)*
+<img width="1365" height="681" alt="Screenshot 2026-07-04 162747" src="https://github.com/user-attachments/assets/47f4ea51-ed1d-4c03-baed-3e4625d28216" />
+
+<img width="1360" height="685" alt="Screenshot 2026-07-04 162803" src="https://github.com/user-attachments/assets/881f13df-0bb5-42b0-b012-54e35bea2268" />
 
 ## License
 
